@@ -27,7 +27,7 @@ export default function ButtonSign() {
             marginLeft: 10,
           }}
         >
-          Login With Google
+          Login With Googles
         </Text>
       </TouchableOpacity>
 
