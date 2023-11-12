@@ -77,12 +77,13 @@ export default function Welcome() {
   return (
     <>
       <ImageBackground
-        source={require("../../assets/background.jpg")}
+        source={require("../../assets/background.png")}
         style={{
           flex: 1,
           justifyContent: "center",
           alignItems: "center",
           width: "100%",
+          height: "100%",
         }}
       >
         <StatusBar barStyle="light-content" backgroundColor="transparent" />
